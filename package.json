@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
+  "name": "internship",
+=======
   "name": "portfolio",
+>>>>>>> 33f7a67034b98816d60880935d355926f75939cb
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,10 +14,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+=======
     "@tailwindcss/vite": "^4.3.0",
     "react": "^19.2.6",
     "react-dom": "^19.2.6",
     "tailwindcss": "^4.3.0"
+>>>>>>> 33f7a67034b98816d60880935d355926f75939cb
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
